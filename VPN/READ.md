@@ -5,7 +5,8 @@ Here is the content formatted into a clean, GitHub-ready `README.md` file.
 
 This guide explains how to prepare and run the installation script for CrowdSec, Docker, and NetBird.
 
-ALSO FIX THIS ISSUE OF MAKING THE "Default Redirect URI" IN https://<YOUR.DOMAIN.com>/ui/console FOR ZITADEL ldp TO "https://<YOUR.DOMAIN.com>/auth" if your Netbird login stuck on /peers
+ALSO FIX THIS ISSUE OF MAKING THE "Default Redirect URI" IN https://<YOUR.DOMAIN.com>/ui/console
+FOR ZITADEL ldp TO "https://<YOUR.DOMAIN.com>/auth" if your Netbird login stuck on /peers
 
 ## How to Use It
 
